@@ -5,7 +5,7 @@ import Features2 from "@/Components/Features2";
 import Footer from "@/Components/Footer";
 import Hero from "@/Components/Hero";
 import Navbar from "@/Components/Navbar";
-import Rev from "@/Components/rev";
+import Rev from "@/Components/Rev";
 import Stats from "@/Components/Stats";
 
 
