@@ -1,6 +1,6 @@
-'use client'
+
 import Image from 'next/image';
-import { easeInOut, motion } from "framer-motion";
+
 function Hero() {
 
     return (
@@ -25,16 +25,7 @@ function Hero() {
                 </div>
                 {/* right sec */}
                 <div>
-                    <motion.div  initial={{ rotate: 0, translateX: -50, translateY: -50}}
-  animate={{ rotate: 720, translateX: 0, translateY: 0 }}
-                    
-                    transition={{
-                       duration:1,
-                       delay:0.3,
-                       repeat: 0,
-                       ease:"easeInOut"
-                    }}
-                    ><Image src="/Shape-2.png" alt="Shape1" width={512} height={512} quality={100} ></Image></motion.div>
+                   <Image src="/Shape-2.png" alt="Shape1" width={512} height={512} quality={100} ></Image>
                 </div>
 
             </div>
