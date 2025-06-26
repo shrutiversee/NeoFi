@@ -28,7 +28,7 @@ function Faq() {
                     <Link href="#" className='outline-2 outline-neutral-500 px-4 py-1 text-semibold text-sm text-[#9DFF3A] rounded-2xl'>FAQ</Link>
                     <h2 className='text-4xl text-bold pt-5 pb-5 text-balance text-center'>Get Answers To Common Questions</h2>
                     <p className='text-sm text-balance text-center text-[#999999]'>From basics to advanced topics, find everything you need to know right</p>
-                    <p className='text-sm text-balance text-center text-[#999999]'>here. Let us help you simplify the process and find the clarity you're looking</p>
+                    <p className='text-sm text-balance text-center text-[#999999]'>here. Let us help you simplify the process and find the clarity you arere looking</p>
                 </div>
 
                 {/* Lower-part */}
